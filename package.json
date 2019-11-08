@@ -1,0 +1,28 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffbhove/html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffbhove/html/issues"
+  },
+  "homepage": "https://github.com/jeffbhove/html#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@storybook/html": "^5.2.5",
+    "babel-loader": "^8.0.6",
+    "design-tokens": "0.0.1"
+  }
+}
