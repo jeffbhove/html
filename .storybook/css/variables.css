@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 08 Nov 2019 00:31:58 GMT
+ * Generated on Fri, 08 Nov 2019 03:15:43 GMT
  */
 
 :root {
@@ -44,6 +44,11 @@
   --trp-font-size-px-14: 14px;
   --trp-font-size-px-16: 16px;
   --trp-font-size-px-18: 18px;
+  --trp-font-size-px-24: 24px;
+  --trp-font-size-px-28: 28px;
+  --trp-font-size-px-36: 36px;
+  --trp-font-size-px-48: 48px;
+  --trp-font-size-px-64: 64px;
   --trp-font-size-rem-1: 1;
   --trp-font-size-rem-2: 2;
   --trp-font-size-rem-3: 3;
@@ -98,6 +103,19 @@
   --trp-zindex-5: 5;
   --trp-zindex-5: -5;
   --trp-background-color-body: #ebebeb;
+  --trp-heading-h-1-color: #b1b1b1;
+  --trp-heading-h-1-font-size: 48px;
+  --trp-heading-h-2-color: #054c70;
+  --trp-heading-h-2-font-size: 36px;
+  --trp-heading-h-3-color: #7d9845;
+  --trp-heading-h-3-font-size: 24px;
+  --trp-heading-h-4-color: #614b79;
+  --trp-heading-h-4-font-size: 18px;
+  --trp-heading-h-5-color: #e17a17;
+  --trp-heading-h-5-font-size: 16px;
+  --trp-heading-h-6-color: #daaa00;
+  --trp-heading-h-6-font-size: 14px;
+  --trp-text-font-size-default: 1;
   --trp-text-color-primary: #000000;
   --trp-text-color-secondary: #ffffff;
   --trp-text-color-tertiary: #b1b1b1;
